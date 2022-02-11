@@ -13,5 +13,8 @@ hey!guys!this is pete liu!
 hey!guys!this is pete liu!
 hey!guys!this is pete liu!
 hey!guys!this is pete liu!
+<<<<<<< HEAD
 hey!guys!this is pete liu! master test
-hey!guys!this is pete liu!
+=======
+hey!guys!this is pete liu! hot-fix test
+>>>>>>> hot-fix
